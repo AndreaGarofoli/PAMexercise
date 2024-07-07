@@ -5,4 +5,4 @@ Presented as a Jupyter notebook.
 
 Example output plots
 
-![Replicate 1.]([https://github.com/AndreaGarofoli/PAMexercise/blob/main/heatmap_rep1.png])
+![Replicate 1.]([[https://github.com/AndreaGarofoli/PAMexercise/blob/main/heatmap_rep1.png](https://github.com/AndreaGarofoli/PAMexercise/blob/main/heatmap_rep1.png?raw=true)])
